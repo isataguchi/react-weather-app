@@ -2,10 +2,12 @@
   font-family: "Poppins", sans-serif;
   max-width: 600px;
   margin: 30px auto;
+  background: ;
 }
 
 .App footer {
   font-size: 11px;
-  margin: 10px 0;
-  color: #27204;
+  color: #38598b;
+  text-align: center;
+  margin-top: 10px;
 }
