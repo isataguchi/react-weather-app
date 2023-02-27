@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCit="New York" />
+        <Weather defaultCity="New York" />
         <footer>
           <p className="footer">
             {" "}
