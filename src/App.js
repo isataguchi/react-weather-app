@@ -12,7 +12,7 @@ function App() {
             {" "}
             🌟 Coded by Isadora and is open sourced on{" "}
             <a
-              href="https://github.com/isataguchi/osaka-project"
+              href="https://github.com/isataguchi/react-weather-app"
               target="_blank"
               rel="noopener noreferrer"
               title="Github"
