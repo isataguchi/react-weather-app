@@ -10,7 +10,7 @@ function App() {
         <footer>
           <p className="footer">
             {" "}
-            🌟 Coded by Isadora and is open sourced on{" "}
+            🌟 Coded by Isadora and is open-sourced on{" "}
             <a
               href="https://github.com/isataguchi/react-weather-app"
               target="_blank"
