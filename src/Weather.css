@@ -1,6 +1,6 @@
 .Weather {
   font-family: "Poppins", sans-serif;
-  padding: 16px;
+  padding: 30px;
   border-radius: 4px;
   color: #38598b;
   background: #e7ecf6c9;
@@ -9,7 +9,7 @@
 .Weather h1 {
   font-size: 32px;
   font-weight: 600;
-  margin: 20px 0 0 0;
+  margin: 20px 0 5px 0;
   line-height: 29px;
 }
 
